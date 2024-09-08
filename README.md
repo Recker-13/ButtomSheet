@@ -1,16 +1,10 @@
-# flutter_application_1
+# BottomSheet for an application
 
 A new Flutter project.
 
-## Getting Started
+## Description:
+The Bottom Sheet in this Flutter application allows users to interact with additional options or actions without leaving the main screen. It is designed to be user-friendly, offering a clean interface for task management. The key functionalities include:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Task Creation: The user can add tasks through the bottom sheet.
+Reminder Setup: The bottom sheet includes a time picker for setting task reminders.
+Minimal Design: It is triggered by a button at the bottom of the screen, keeping the interface clean and uncluttered.
