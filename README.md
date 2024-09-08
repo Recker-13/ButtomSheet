@@ -8,3 +8,7 @@ The Bottom Sheet in this Flutter application allows users to interact with addit
 Task Creation: The user can add tasks through the bottom sheet.
 Reminder Setup: The bottom sheet includes a time picker for setting task reminders.
 Minimal Design: It is triggered by a button at the bottom of the screen, keeping the interface clean and uncluttered.
+
+
+## Screenshot
+![App Screenshot](https://github.com/your-username/repo-name/blob/main/assets/images/screenshot.png)
